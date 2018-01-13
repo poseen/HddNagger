@@ -1,0 +1,15 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>Specflow</Value>
+      <Value>SpecFlow</Value>
+      <Value>Dto</Value>
+      <Value>Dtos</Value>
+      <Value>dto</Value>
+      <Value>dtos</Value>
+      <Value>Datasource</Value>
+	  <Value>queryable</Value>
+	  <Value>Queryable</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+</StyleCopSettings> 
